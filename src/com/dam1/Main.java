@@ -8,6 +8,10 @@ public class Main {
         // varios idomas implementados
         // fix
 
+        // trabajando en la nueva funcionalidad
+
+        // terminada la nueva funcionalidad
+
 
     }
 }
