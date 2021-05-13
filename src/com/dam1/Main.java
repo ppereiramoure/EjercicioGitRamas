@@ -12,6 +12,7 @@ public class Main {
 
         // terminada la nueva funcionalidad
 
+        System.out.println("B");
 
     }
 }
